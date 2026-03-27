@@ -4,25 +4,25 @@
 Overview
 This project analyzes skincare product prices to understand market trends and customer behavior. It highlights how pricing varies across different skin types, product categories, and brands, helping identify target segments.
 
-Objectives
+Objectives:
 Analyze average pricing for each skin type.
 Compare prices across product categories and brands.
 Understand customer perception of pricing and quality.
 Measure the impact of influencers on purchasing decisions.
 
-Dataset & Features
+Dataset & Features:
 Median price by skin type.
 Median price by product category.
 Brand pricing comparison.
 Survey responses (customer opinions).
 
-Key Insights
+Key Insights:
 Clear differences in pricing between brands and categories.
 Identification of target customer segments based on price range.
 Insights into whether higher prices reflect better perceived quality.
 Influence of social media and influencers on buying behavior.
 
-Filters
+Filters:
 Skin Type
 Gender
 Age
